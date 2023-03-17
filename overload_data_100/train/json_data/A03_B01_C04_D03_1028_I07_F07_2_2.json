@@ -1,0 +1,31 @@
+{
+	"FILE":[{
+		"FILE_NAME":"A03_B01_C04_D03_1028_I07_F07_2_2.jpg",
+		"COLLECTIONMETHOD":"스마트기기-폰",
+		"DAY/NIGHT":"주",
+		"LANE":"단선",
+		"ROADNUMBER":"송도실험장",
+		"PLACE":"송도실험장",
+		"IDCODE":"F07",
+		"DATE":"2021.10.28",
+		"WEATHER":"맑은날",
+		"RESOLUTION":"1920*1080",
+		"MAKE":"LG",
+		"MODELNAME":"G7",
+		"FILESIZE":"970835",
+		"BOUNDINGCOUNT":"1",
+		"ITEMS":[
+			{
+			"DRAWING":"Box",
+			"SEGMENT":"소형차",
+			"BOX":"703.08,456.81,563.13,223.35",
+			"POLYGON":"",
+			"PACKAGE":"불법차량",
+			"CLASS":"적재불량",
+			"COVER":"덮개없음",
+			"COURSE":"전면우측",
+			"CURVE":"정상주행"
+			}
+		]
+	}]
+}

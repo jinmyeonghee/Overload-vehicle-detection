@@ -1,0 +1,31 @@
+{
+	"FILE":[{
+		"FILE_NAME":"A01_B02_C00_D02_0802_G01_F10_1_2.jpg",
+		"COLLECTIONMETHOD":"블랙박스",
+		"DAY/NIGHT":"주",
+		"LANE":"다선",
+		"ROADNUMBER":"제보영상",
+		"PLACE":"제보영상",
+		"IDCODE":"F10",
+		"DATE":"2021.08.02",
+		"WEATHER":"맑은날",
+		"RESOLUTION":"1920*1080",
+		"MAKE":"제보영상",
+		"MODELNAME":"제보영상",
+		"FILESIZE":"441991",
+		"BOUNDINGCOUNT":"1",
+		"ITEMS":[
+			{
+			"DRAWING":"Box",
+			"SEGMENT":"대형차",
+			"BOX":"522.19,580.28,170.09,125.92",
+			"POLYGON":"",
+			"PACKAGE":"정상차량",
+			"CLASS":"정상차량",
+			"COVER":"",
+			"COURSE":"전면좌측",
+			"CURVE":"정상주행"
+			}
+		]
+	}]
+}

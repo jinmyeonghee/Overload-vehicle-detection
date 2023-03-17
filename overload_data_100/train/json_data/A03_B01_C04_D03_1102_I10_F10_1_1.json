@@ -1,0 +1,31 @@
+{
+	"FILE":[{
+		"FILE_NAME":"A03_B01_C04_D03_1102_I10_F10_1_1.jpg",
+		"COLLECTIONMETHOD":"스마트기기-폰",
+		"DAY/NIGHT":"주",
+		"LANE":"단선",
+		"ROADNUMBER":"송도실험장",
+		"PLACE":"송도실험장",
+		"IDCODE":"F10",
+		"DATE":"2021.11.02",
+		"WEATHER":"맑은날",
+		"RESOLUTION":"1920*1080",
+		"MAKE":"Apple",
+		"MODELNAME":"IPONE12",
+		"FILESIZE":"287450",
+		"BOUNDINGCOUNT":"1",
+		"ITEMS":[
+			{
+			"DRAWING":"Box",
+			"SEGMENT":"소형차",
+			"BOX":"847.21,673.47,657.96,280.73",
+			"POLYGON":"",
+			"PACKAGE":"불법차량",
+			"CLASS":"적재불량",
+			"COVER":"덮개없음",
+			"COURSE":"후면좌측",
+			"CURVE":"정상주행"
+			}
+		]
+	}]
+}

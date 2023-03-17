@@ -1,0 +1,31 @@
+{
+	"FILE":[{
+		"FILE_NAME":"A01_B02_C00_D04_1018_I01_F10_2_5.jpg",
+		"COLLECTIONMETHOD":"스마트기기-캠코더",
+		"DAY/NIGHT":"주",
+		"LANE":"다선",
+		"ROADNUMBER":"연천실험장",
+		"PLACE":"연천실험장",
+		"IDCODE":"F10",
+		"DATE":"2021.10.18",
+		"WEATHER":"흐린날",
+		"RESOLUTION":"1920*1080",
+		"MAKE":"SONY",
+		"MODELNAME":"A5000",
+		"FILESIZE":"359295",
+		"BOUNDINGCOUNT":"1",
+		"ITEMS":[
+			{
+			"DRAWING":"Box",
+			"SEGMENT":"대형차",
+			"BOX":"1317.56,494.21,264.48,135.74",
+			"POLYGON":"",
+			"PACKAGE":"정상차량",
+			"CLASS":"정상차량",
+			"COVER":"",
+			"COURSE":"전면좌측",
+			"CURVE":"정상주행"
+			}
+		]
+	}]
+}

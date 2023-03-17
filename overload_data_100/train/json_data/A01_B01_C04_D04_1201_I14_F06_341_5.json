@@ -1,0 +1,31 @@
+{
+	"FILE":[{
+		"FILE_NAME":"A01_B01_C04_D04_1201_I14_F06_341_5.jpg",
+		"COLLECTIONMETHOD":"스마트기기-캠코더",
+		"DAY/NIGHT":"주",
+		"LANE":"다선",
+		"ROADNUMBER":"송도실험장",
+		"PLACE":"송도실험장",
+		"IDCODE":"F06",
+		"DATE":"2021.12.01",
+		"WEATHER":"맑은날",
+		"RESOLUTION":"1920*1080",
+		"MAKE":"SONY",
+		"MODELNAME":"RX100",
+		"FILESIZE":"419833",
+		"BOUNDINGCOUNT":"1",
+		"ITEMS":[
+			{
+			"DRAWING":"Box",
+			"SEGMENT":"대형차",
+			"BOX":"558.27,338.62,244.39,258.63",
+			"POLYGON":"",
+			"PACKAGE":"불법차량",
+			"CLASS":"적재불량",
+			"COVER":"덮개개방",
+			"COURSE":"후면우측",
+			"CURVE":"정상주행"
+			}
+		]
+	}]
+}

@@ -1,0 +1,31 @@
+{
+	"FILE":[{
+		"FILE_NAME":"A01_B01_C04_D03_1122_I03_F10_149_2.jpg",
+		"COLLECTIONMETHOD":"스마트기기-폰",
+		"DAY/NIGHT":"주",
+		"LANE":"다선",
+		"ROADNUMBER":"연천실험장",
+		"PLACE":"연천실험장",
+		"IDCODE":"F10",
+		"DATE":"2021.11.22",
+		"WEATHER":"맑은날",
+		"RESOLUTION":"2268*1080",
+		"MAKE":"LG",
+		"MODELNAME":"G7",
+		"FILESIZE":"745448",
+		"BOUNDINGCOUNT":"1",
+		"ITEMS":[
+			{
+			"DRAWING":"Box",
+			"SEGMENT":"대형차",
+			"BOX":"1145.15,255.67,637.45,352.69",
+			"POLYGON":"",
+			"PACKAGE":"불법차량",
+			"CLASS":"적재불량",
+			"COVER":"덮개개방",
+			"COURSE":"후면우측",
+			"CURVE":"정상주행"
+			}
+		]
+	}]
+}

@@ -1,0 +1,31 @@
+{
+	"FILE":[{
+		"FILE_NAME":"A01_B01_C04_D05_1123_I04_F10_868_4.jpg",
+		"COLLECTIONMETHOD":"드론",
+		"DAY/NIGHT":"주",
+		"LANE":"다선",
+		"ROADNUMBER":"연천실험장",
+		"PLACE":"연천실험장",
+		"IDCODE":"F10",
+		"DATE":"2021.11.23",
+		"WEATHER":"맑은날",
+		"RESOLUTION":"3840*2160",
+		"MAKE":"드론",
+		"MODELNAME":"MAVIC AIR2",
+		"FILESIZE":"2905171",
+		"BOUNDINGCOUNT":"1",
+		"ITEMS":[
+			{
+			"DRAWING":"Box",
+			"SEGMENT":"대형차",
+			"BOX":"2367.03,536.74,590.67,308.41",
+			"POLYGON":"",
+			"PACKAGE":"불법차량",
+			"CLASS":"적재불량",
+			"COVER":"덮개개방",
+			"COURSE":"후면좌측",
+			"CURVE":"정상주행"
+			}
+		]
+	}]
+}

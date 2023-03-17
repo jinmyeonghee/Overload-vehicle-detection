@@ -1,0 +1,31 @@
+{
+	"FILE":[{
+		"FILE_NAME":"A01_B01_C04_D02_1201_I15_F10_734_3.jpg",
+		"COLLECTIONMETHOD":"블랙박스",
+		"DAY/NIGHT":"주",
+		"LANE":"다선",
+		"ROADNUMBER":"송도실험장",
+		"PLACE":"송도실험장",
+		"IDCODE":"F10",
+		"DATE":"2021.12.01",
+		"WEATHER":"맑은날",
+		"RESOLUTION":"1920*1080",
+		"MAKE":"VUGERA",
+		"MODELNAME":"VG-9000",
+		"FILESIZE":"407654",
+		"BOUNDINGCOUNT":"1",
+		"ITEMS":[
+			{
+			"DRAWING":"Box",
+			"SEGMENT":"대형차",
+			"BOX":"559.37,584.07,258.17,187.15",
+			"POLYGON":"",
+			"PACKAGE":"불법차량",
+			"CLASS":"적재불량",
+			"COVER":"덮개개방",
+			"COURSE":"후면우측",
+			"CURVE":"정상주행"
+			}
+		]
+	}]
+}

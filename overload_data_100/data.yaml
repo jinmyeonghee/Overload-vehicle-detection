@@ -1,0 +1,11 @@
+path: /Users/jinmh/Desktop/overload_data_100/data.yaml  
+train: /Users/jinmh/Desktop/overload_data_100/train/images  
+val: /Users/jinmh/Desktop/overload_data_100/valid/images  
+
+# number of classes
+nc : 2
+names:
+        0: 불법차량
+        1: 정상차량
+
+

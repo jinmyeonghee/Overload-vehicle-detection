@@ -1,0 +1,31 @@
+{
+	"FILE":[{
+		"FILE_NAME":"A03_B01_C04_D03_1101_I13_F08_1_4.jpg",
+		"COLLECTIONMETHOD":"스마트기기-폰",
+		"DAY/NIGHT":"주",
+		"LANE":"단선",
+		"ROADNUMBER":"송도실험장",
+		"PLACE":"송도실험장",
+		"IDCODE":"F08",
+		"DATE":"2021.11.01",
+		"WEATHER":"맑은날",
+		"RESOLUTION":"1920*1080",
+		"MAKE":"삼성",
+		"MODELNAME":"NOTE10",
+		"FILESIZE":"447854",
+		"BOUNDINGCOUNT":"1",
+		"ITEMS":[
+			{
+			"DRAWING":"Box",
+			"SEGMENT":"소형차",
+			"BOX":"335.66,531.55,374.89,157.48",
+			"POLYGON":"",
+			"PACKAGE":"불법차량",
+			"CLASS":"적재불량",
+			"COVER":"끈없음",
+			"COURSE":"전면좌측",
+			"CURVE":"정상주행"
+			}
+		]
+	}]
+}
