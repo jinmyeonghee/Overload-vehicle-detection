@@ -8,7 +8,7 @@ git clone https://github.com/jinmyeonghee/Overload-vehicle-detection.git
 
 cd Overload-vehicle-detection 
 
-해당폴더에 들어간 후 
+해당폴더에 들어간 후 python=3.8로 가상환경을 만들고
 
 pip install -r requirements.txt
 
