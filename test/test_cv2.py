@@ -21,4 +21,4 @@ detect_cv2.detection(model = model,
           input_video = input_video,
           output_video = output_video)
 
-# 결과영상 파일은 CP1/results 폴더에 있습니다.
+# 결과영상 파일은 /results 폴더에 있습니다.
