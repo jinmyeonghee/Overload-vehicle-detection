@@ -9,6 +9,14 @@
 
 해당 프로젝트에서 YOLOv5를 활용, 주어진 영상 내 과적 차량을 인식하여 박스로 표시하는 모델을 제작해보겠습니다.
 
+## 개발환경
+macOS Ventura 13.1
+
+Visual Studio Code
+
+사용모델 : yolov5
+
+
 
 ### 폴더 설명
 
@@ -27,9 +35,9 @@
 
 1. 먼저 이 레포지토리를 클론해주세요. (약 2분소요)
 
-  -  `git clone https://github.com/jinmyeonghee/Overload-vehicle-detection.git`
+  - `git clone https://github.com/jinmyeonghee/Overload-vehicle-detection.git`
 
-2. 해당폴더에 들어간 후(`cd Overload-vehicle-detection`) python=3.8로 가상환경을 만들고,
+2. python=3.8 가상환경
 
   - `pip install -r requirements.txt` 필요한 라이브러리와 모듈을 설치합니다.
 
