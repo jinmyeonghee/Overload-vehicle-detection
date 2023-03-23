@@ -9,14 +9,32 @@
 
 해당 프로젝트에서 YOLOv5를 활용, 주어진 영상 내 과적 차량을 인식하여 박스로 표시하는 모델을 제작해보겠습니다.
 
+
 ## 개발환경
 macOS Ventura 13.1
 
 Visual Studio Code
 
 사용모델 : yolov5
-
-
+***
+### 디렉토리 구조
+```
+Overload-vehicle-detection
+├── sample
+│   └──sample.mp4
+│   └──sample1.mp4
+│   └──sample2.mp4
+├── models
+│   └──best.pt
+├── utils
+│   ├── __init__.py
+│   └── detect_cv2.py
+├── results
+│   └──output_video1.mp4
+├── test
+│   └── test_cv2.py
+└── requirements.txt
+```
 
 ### 폴더 설명
 
@@ -30,6 +48,9 @@ Visual Studio Code
 
 - test : 해당 패키지가 정상적으로 작동하는지 확인하는 test_cv2.py 파일을 포함하고 있습니다.
 
+- requirements.txt : 프로젝트에 필요한 라이브러리와 모듈 파일들이 작성되어 있습니다
+
+***
 
 ### 패키지를 이용해 과적차량(불법차량)을 감지해봅시다. 
 
