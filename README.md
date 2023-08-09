@@ -3,7 +3,7 @@
 
 **사용 언어 : <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>**
 
-**개발환경 : macOS Ventura 13.1, <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>**
+**개발환경 : macOS Ventura 13.1, visual studio code**
 
 **사용모델 : yolov5**
 
@@ -34,7 +34,6 @@
   -> 소형차, 중형차도 같이 학습을 시키면 더 높은 성능을 낼 수 있을 것이다.
 - 모델의 성능 평가 측면에서 클래스가 적으므로 mPA를 무조건적으로 신뢰할 수 없음
   -> 따라서 다양한 클래스 및 이미지를 추가하여 학습하는 것이 좋을 것이다.
-
 
 
 # 패키지 설명
