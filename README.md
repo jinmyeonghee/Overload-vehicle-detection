@@ -1,22 +1,22 @@
 # 과적 차량을 인식하여 단속하는 서비스
 **프로젝트기간 : 2023.03.10 ~ 2023.03.21**
 
-**사용 언어 : python**
+**사용 언어 : <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>**
 
-**개발환경 : macOS Ventura 13.1, Visual Studio Code**
+**개발환경 : macOS Ventura 13.1, <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>**
 
 **사용모델 : yolov5**
 
 ***
 ### 프로젝트 개요
-- 해당 프로젝트에서 YOLOv5를 활용, 주어진 영상 내 과적 차량을 인식하여 박스로 표시하는 모델을 제작
+- 해당 프로젝트에서 yolov5를 활용, 주어진 영상 내 과적 차량을 인식하여 박스로 표시하는 모델을 제작
 
 ### 프로젝트 배경
 - 고속도로에서의 사고위험요소 중 화물자동차의 과적운행은 도로 파손의 원인이 될 뿐만 아니라 주변 운행차량에 사고를 유발하는 등 근절대책이 시급한 실정
 
    
 ## 프로젝트 내용
-### 1. YOLOv5 모델 연구
+### 1. yolov5 모델 연구
 <img width="1046" alt="과적차량1" src="https://github.com/jinmyeonghee/Overload-vehicle-detection/assets/114460314/7d7d5395-977e-4aa1-999e-d1da7eb71a50">
 
 ### 2. 학습데이터(대형차의 과적차량과 정상차량)를 학습
