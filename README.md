@@ -1,7 +1,7 @@
 # 과적 차량을 인식하여 단속하는 서비스
 **프로젝트기간 : 2023.03.10 ~ 2023.03.21**
 
-**사용 언어 : <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>**
+**사용 언어 : python>**
 
 **개발환경 : macOS Ventura 13.1, visual studio code**
 
