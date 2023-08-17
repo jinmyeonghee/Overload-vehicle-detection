@@ -22,8 +22,15 @@
 ### 2. 학습데이터(대형차의 과적차량과 정상차량)를 학습
 <img width="987" alt="스크린샷 2023-08-09 오후 4 56 58" src="https://github.com/jinmyeonghee/Overload-vehicle-detection/assets/114460314/13bae654-56aa-42da-a614-01f499b0c7a7">
 
-### 3. 추가데이터 학습sample데이터로 모델테스트
+### 3. 추가데이터 학습, sample데이터로 모델테스트
 <img width="1036" alt="스크린샷 2023-08-09 오후 4 57 26" src="https://github.com/jinmyeonghee/Overload-vehicle-detection/assets/114460314/5e184c7f-8ee2-4ed8-8185-302b6d592360">
+
+### 4. 모델 평가
+- F1-Curve와 PR-Curve 약 99% 정확도
+   <img width="703" alt="스크린샷 2023-08-17 오후 11 37 45" src="https://github.com/jinmyeonghee/Overload-vehicle-detection/assets/114460314/96862d20-6d37-49aa-af3c-108c92dfe0f8">
+
+- Validation 높은 확률로 맞춤
+   <img width="676" alt="스크린샷 2023-08-17 오후 11 36 48" src="https://github.com/jinmyeonghee/Overload-vehicle-detection/assets/114460314/d480458a-3229-4ee4-adee-acbea096be75">
 
 ### 프로젝트 평가
 - 두번째 학습에서 데이터를 추가적으로 학습. 백그라운드 이미지를 활용.  
